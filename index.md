@@ -1,7 +1,8 @@
 # Ali Gumus's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2028. 
+I am a computer science major at [Cal State Fullerton](fullerton.edu) and I plan on graduating in 2028. 
 
+My Github Page is [https://aeg1907.github.io/](https://aeg1907.github.io/)
 ## My Favorite CPSC120L Labs
 
 * Lab 6, part 2
